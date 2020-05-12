@@ -2,4 +2,4 @@
 !/train_face/jay/
 !/train_face/trump/
 
-/save_model/*
+/save_model/*.h5
